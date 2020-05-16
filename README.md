@@ -1,4 +1,5 @@
 # check-elements
+（未完成です）  
 Chrome browser plugin for check a element in HTML page.
 
 ## 概要
@@ -7,4 +8,4 @@ Chrome browser plugin for check a element in HTML page.
 
 ## フロー
 
-read elements list (TSV format) -> read HTML code -> search elements
+read elements list (CSV format) -> read HTML code -> search elements
